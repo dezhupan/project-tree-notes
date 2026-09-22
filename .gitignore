@@ -1,0 +1,5 @@
+build/
+*.zip
+!project-tree-notes-1.0.6.zip
+使用说明-1.0.1.md
+测试与验收-1.0.1.md
